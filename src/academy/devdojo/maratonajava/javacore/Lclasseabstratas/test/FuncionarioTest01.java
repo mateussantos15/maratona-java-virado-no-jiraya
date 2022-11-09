@@ -9,6 +9,7 @@ public class FuncionarioTest01 {
         Desenvolvedor desenvolvedor = new Desenvolvedor("Saitama", 2000);
         Gerente gerente = new Gerente("Son Goku", 5000);
         desenvolvedor.calcularBonus();
+        gerente.calcularBonus();
         System.out.println(desenvolvedor);
 
         System.out.println(gerente);
