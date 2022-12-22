@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd317a4d-cf84-4de1-8bec-9ca005754210" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Computador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Taxavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Televisao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Tomate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/CalculadoraImposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/ProdutoTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/ProdutoTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Lclasseabstratas/test/FuncionarioTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Lclasseabstratas/test/FuncionarioTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,39 +56,13 @@
       <recent name="academy.devdojo.maratonajava.javacore.introducaoclasses.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FuncionarioTest01">
-    <configuration name="Aula07Arrays03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula07Arrays03" />
+  <component name="RunManager" selected="Application.ProdutoTest01">
+    <configuration name="DataLoaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Minterface.test.DataLoaderTest" />
       <module name="maratona-java-virado-no-jiraya" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClienteTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Kenum.test.ClienteTest01" />
-      <module name="maratona-java-virado-no-jiraya" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Kenum.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EstudanteTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Aintroducaoclasses.EstudanteTest01" />
-      <module name="maratona-java-virado-no-jiraya" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Aintroducaoclasses.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Minterface.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,13 +96,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProdutoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Npolimorfismo.test.ProdutoTest01" />
+      <module name="maratona-java-virado-no-jiraya" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Npolimorfismo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Npolimorfismo.test.ProdutoTest02" />
+      <module name="maratona-java-virado-no-jiraya" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Npolimorfismo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FuncionarioTest01" />
-        <item itemvalue="Application.ClienteTest01" />
+        <item itemvalue="Application.ProdutoTest01" />
+        <item itemvalue="Application.ProdutoTest02" />
         <item itemvalue="Application.JogadorTest03" />
-        <item itemvalue="Application.EstudanteTest01" />
-        <item itemvalue="Application.Aula07Arrays03" />
+        <item itemvalue="Application.FuncionarioTest01" />
+        <item itemvalue="Application.DataLoaderTest" />
       </list>
     </recent_temporary>
   </component>
