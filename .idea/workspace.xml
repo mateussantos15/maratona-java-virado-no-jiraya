@@ -5,14 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd317a4d-cf84-4de1-8bec-9ca005754210" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Computador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Taxavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Televisao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Tomate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/CalculadoraImposto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/ProdutoTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/ProdutoTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/error/test/StackOverflowTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Leitor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Leitor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/LoginInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/exception/test/ExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/exception/test/LoginInvalidoExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/exception/test/TryWithResourcesTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,14 +60,18 @@
       <recent name="academy.devdojo.maratonajava.javacore.Aintroducaoclasses" />
       <recent name="academy.devdojo.maratonajava.javacore.introducaoclasses.test" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.Oexception.runtime.test" />
+      <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.test" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ProdutoTest01">
-    <configuration name="DataLoaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Minterface.test.DataLoaderTest" />
+  <component name="RunManager" selected="Application.LoginInvalidoExceptionTest01">
+    <configuration name="ExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.ExceptionTest01" />
       <module name="maratona-java-virado-no-jiraya" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Minterface.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncionarioTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Lclasseabstratas.test.FuncionarioTest01" />
+    <configuration name="LoginInvalidoExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.LoginInvalidoExceptionTest01" />
       <module name="maratona-java-virado-no-jiraya" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Lclasseabstratas.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,21 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JogadorTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Gassociacao.test.JogadorTest03" />
-      <module name="maratona-java-virado-no-jiraya" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Gassociacao.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProdutoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Npolimorfismo.test.ProdutoTest01" />
+    <configuration name="RepositorioTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Npolimorfismo.test.RepositorioTeste" />
       <module name="maratona-java-virado-no-jiraya" />
       <extension name="coverage">
         <pattern>
@@ -109,12 +105,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Npolimorfismo.test.ProdutoTest02" />
+    <configuration name="RuntimeExceptionTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.runtime.test.RuntimeExceptionTest02" />
       <module name="maratona-java-virado-no-jiraya" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Npolimorfismo.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Oexception.runtime.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryWithResourcesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.TryWithResourcesTest01" />
+      <module name="maratona-java-virado-no-jiraya" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProdutoTest01" />
-        <item itemvalue="Application.ProdutoTest02" />
-        <item itemvalue="Application.JogadorTest03" />
-        <item itemvalue="Application.FuncionarioTest01" />
-        <item itemvalue="Application.DataLoaderTest" />
+        <item itemvalue="Application.LoginInvalidoExceptionTest01" />
+        <item itemvalue="Application.TryWithResourcesTest01" />
+        <item itemvalue="Application.RuntimeExceptionTest02" />
+        <item itemvalue="Application.ExceptionTest01" />
+        <item itemvalue="Application.RepositorioTeste" />
       </list>
     </recent_temporary>
   </component>
