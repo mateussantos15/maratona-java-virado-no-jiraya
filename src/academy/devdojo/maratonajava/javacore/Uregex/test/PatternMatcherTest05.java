@@ -46,5 +46,27 @@ public class PatternMatcherTest05 {
         while (matcher.find()) {
             System.out.print(matcher.start()+" "+matcher.group()+"\n");
         }
+        // Exemplo 02
+        String email = "usuario@example.com";
+        regex = "^[A-Za-z0-9+_.-]+@[A-Za-z0-9.-]+$"; // Expressão regular para validar e-mails
+        // A expressão regular ^[A-Za-z0-9+_.-]+@[A-Za-z0-9.-]+$ é usada para validar o formato do e-mail.
+
+        // ^ indica o início da string e $ indica o final da string, garantindo que toda a string seja correspondida.
+
+        // [A-Za-z0-9+_.-]+ representa o nome de usuário do e-mail, permitindo letras maiúsculas e minúsculas,
+        // dígitos, e os caracteres especiais +, _, ., e -. O + indica que pelo menos um desses caracteres
+        // deve estar presente.
+
+        // @ é o caractere literal "@".
+
+        // [A-Za-z0-9.-]+ representa o domínio do e-mail, permitindo letras maiúsculas e minúsculas, dígitos, e os
+        // caracteres especiais ., e -. Novamente, o + indica que pelo menos um desses caracteres deve estar presente.
+        boolean match = Pattern.matches(regex, email);
+
+        if (match) {
+            System.out.println("O e-mail é válido.");
+        } else {
+            System.out.println("O e-mail não é válido.");
+        }
     }
 }
