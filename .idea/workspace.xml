@@ -1,177 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="SCOPE_TYPE" value="3" />
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd317a4d-cf84-4de1-8bec-9ca005754210" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZKjunit/dominio/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZKjunit/service/PersonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZKjunit/test/PersonServiceTest01.java" afterDir="false" />
+    <list default="true" id="4d6e75b7-5210-4bea-bede-2e5e6fcfe660" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/academy/devdojo/maratonajava/javacore/ZZKjunit/service/PersonServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/resourceBundles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java-virado-no-jiraya.iml" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java-virado-no-jiraya.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZKjunit/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZKjunit/service/PersonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/Resumo_de_Estruturas_de_Dados_em_Java.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/Resumo_de_Estruturas_de_Dados_em_Java.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/academy/devdojo/maratonajava/javacore/ZZAclassesinternas/Resumo.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/academy/devdojo/maratonajava/javacore/ZZClambdas/Resumo.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/academy/devdojo/maratonajava/javacore/ZZClambdas/Resumo_Metodos_Reference.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/academy/devdojo/maratonajava/javacore/ZZDoptional/ResumoOptional.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/Resumo_Streams.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads/Resumo Threads.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/academy/devdojo/maratonajava/javacore/ZZGconcorrencia/Resumo.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesdeprojeto/Resumo.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/academy/devdojo/maratonajava/javacore/ZZIjdbc/.~lock.Resumo.odt#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/academy/devdojo/maratonajava/javacore/ZZIjdbc/Resumo.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/Resumo.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/resources/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/resources/messages_en_US.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/resources/messages_pt_BR.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Enum" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="2EGnQtb5KLCyCSlMzlZgy995oMg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2vYXqoXcGiBPdxTzJ7V8Wea0yis" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.BinarySearchTest01.executor": "Run",
-    "Application.ConnectionFactoryTest01.executor": "Run",
-    "Application.LoginInvalidoExceptionTest01.executor": "Run",
-    "Application.ResourceBundleTest01.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "JUnit.PersonServiceTest.executor": "Coverage",
+    "JUnit.PersonServiceTest.ilterRemovingNotAdult_ReturnListWithAdultOnly_WhenListOfPersonWithAdultIsPassed.executor": "Run",
+    "JUnit.PersonServiceTest.isAdult.executor": "Run",
+    "JUnit.PersonServiceTest.isAdult_ReturnFalse_WhenAgeIsLowerThan18.executor": "Run",
+    "JUnit.PersonServiceTest.isAdult_ReturnTrue_WhenAgeIsGreaterOrEqualsThan18.executor": "Run",
+    "JUnit.PersonServiceTest.isAdult_TrowException_WhenAgeIsNull.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/mateus/workspace/maratona-java",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="academy.devdojo.maratonajava.javacore.Aintroducaoclasses" />
-      <recent name="academy.devdojo.maratonajava.javacore.introducaoclasses.test" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="academy.devdojo.maratonajava.javacore.Oexception.runtime.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.test" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.PersonServiceTest01">
-    <configuration name="BinarySearchTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.BinarySearchTest01" />
+  <component name="RunManager" selected="JUnit.PersonServiceTest.isAdult_ReturnFalse_WhenAgeIsLowerThan18">
+    <configuration name="PersonServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="maratona-java-virado-no-jiraya" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service" />
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service.PersonServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConnectionFactoryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01" />
+    <configuration name="PersonServiceTest.ilterRemovingNotAdult_ReturnListWithAdultOnly_WhenListOfPersonWithAdultIsPassed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="maratona-java-virado-no-jiraya" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZIjdbc.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service" />
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service.PersonServiceTest" />
+      <option name="METHOD_NAME" value="ilterRemovingNotAdult_ReturnListWithAdultOnly_WhenListOfPersonWithAdultIsPassed" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginInvalidoExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.LoginInvalidoExceptionTest01" />
+    <configuration name="PersonServiceTest.isAdult_ReturnFalse_WhenAgeIsLowerThan18" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="maratona-java-virado-no-jiraya" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service" />
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service.PersonServiceTest" />
+      <option name="METHOD_NAME" value="isAdult_ReturnFalse_WhenAgeIsLowerThan18" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonServiceTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZKjunit.test.PersonServiceTest01" />
+    <configuration name="PersonServiceTest.isAdult_ReturnTrue_WhenAgeIsGreaterOrEqualsThan18" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="maratona-java-virado-no-jiraya" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZKjunit.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service" />
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service.PersonServiceTest" />
+      <option name="METHOD_NAME" value="isAdult_ReturnTrue_WhenAgeIsGreaterOrEqualsThan18" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResourceBundleTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Tresourcebundle.test.ResourceBundleTest01" />
+    <configuration name="PersonServiceTest.isAdult_TrowException_WhenAgeIsNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="maratona-java-virado-no-jiraya" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Tresourcebundle.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service" />
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service.PersonServiceTest" />
+      <option name="METHOD_NAME" value="isAdult_TrowException_WhenAgeIsNull" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PersonServiceTest01" />
-        <item itemvalue="Application.ConnectionFactoryTest01" />
-        <item itemvalue="Application.ResourceBundleTest01" />
-        <item itemvalue="Application.BinarySearchTest01" />
-        <item itemvalue="Application.LoginInvalidoExceptionTest01" />
+        <item itemvalue="JUnit.PersonServiceTest.isAdult_ReturnFalse_WhenAgeIsLowerThan18" />
+        <item itemvalue="JUnit.PersonServiceTest.isAdult_TrowException_WhenAgeIsNull" />
+        <item itemvalue="JUnit.PersonServiceTest.ilterRemovingNotAdult_ReturnListWithAdultOnly_WhenListOfPersonWithAdultIsPassed" />
+        <item itemvalue="JUnit.PersonServiceTest.isAdult_ReturnTrue_WhenAgeIsGreaterOrEqualsThan18" />
+        <item itemvalue="JUnit.PersonServiceTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dd317a4d-cf84-4de1-8bec-9ca005754210" name="Changes" comment="" />
-      <created>1662230778779</created>
+      <changelist id="4d6e75b7-5210-4bea-bede-2e5e6fcfe660" name="Changes" comment="" />
+      <created>1744323177242</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1662230778779</updated>
+      <updated>1744323177242</updated>
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/maratona_java_virado_no_jiraya$PersonServiceTest.ic" NAME="PersonServiceTest Coverage Results" MODIFIED="1744373792550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>academy.devdojo.maratonajava.javacore.ZZKjunit.service.*</FILTER>
+    </SUITE>
   </component>
 </project>
